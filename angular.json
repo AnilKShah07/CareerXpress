@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CareerXpress"
+    }
+  },
+  "defaultProject": "CareerXpress",
+  "cli": {
+    "analytics": "4339351b-5336-4560-aef4-20640c0667e5"
+  }
 }
